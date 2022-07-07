@@ -1,0 +1,1237 @@
+body {
+    background-image: url('bg.jpg');
+    font-family: "Trirong"; font-size: 22px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+}
+
+/*HOME*/
+
+.favbtn{
+    position: relative;
+    top: 85px;
+    left: -550px;
+    width: 150x;
+    height:150px;
+}
+
+.fav{
+    position: relative;
+    top: -100Px;
+    left:10px;
+    margin-left: 200px;
+    margin-right: 10px;
+    text-align: center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+}
+
+.userbtn{
+    position: relative;
+    top: -20px;
+    left:-540px;
+    width: 130px;
+    height: 130px;
+}
+
+.user1{
+    position: relative;
+    top: -180px;
+    left:10px;
+    margin-left: 200px;
+    margin-right: 10px;
+    text-align: center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+}
+
+
+
+.fambtn{
+    position: relative;
+    top: -60px;
+    left:-540px;
+    width: 130px;
+    height: 130px;
+}
+
+.fam1{
+    position: relative;
+    top: -250px;
+    left:10px;
+    margin-left: 200px;
+    margin-right: 10px;
+    text-align: center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+}
+
+.menu{
+    text-align: center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+}
+
+
+/*FAVORITE*/
+
+.para1{
+    border: 1px solid;
+    background-color: #FDEFEF;
+    color:black;
+}
+
+.para2{
+    border: 1px solid;
+    background-color: #FDEFEF;
+    color:black;
+}
+
+.para3{
+    border: 1px solid;
+    background-color: #FDEFEF;
+    color:black;
+}
+
+.para4{
+    border: 1px solid;
+    background-color: #FDEFEF;
+    color:black;
+}
+
+.para5{
+    border: 1px solid;
+    background-color: #FDEFEF;
+    color:black;
+}
+
+
+.HomeButton1{
+    width: 100px;
+    height: 100px;
+    position:relative;
+    border: 1px solid;
+    top: 10px;
+    left: -590px;
+
+}
+
+.activity{
+    text-align: center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+}
+
+/*USER*/
+
+.information {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.mays{
+    position: absolute;
+    background-color: #FDEFEF;
+    top:-10px;
+    left:-20px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+    width: 220px;
+    height: 220px;
+    
+}
+.name {
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profilepic {
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.description  {
+    text-align:center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+.description2 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+} 
+
+.HomeButton2 {
+    width: 100px;
+    height: 100px;
+    position:relative;
+    border: 1px solid;
+    top: 10px;
+    left: -590px;
+}
+
+.birth {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+    background-color: #FDEFEF;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.status {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+    background-color: #FDEFEF;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.religion {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+    background-color: #FDEFEF;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.citizenship {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+    background-color: #FDEFEF;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.height {
+    position: relative;
+    top: 350px;
+    left: 300px;
+    margin-right: 1030px;
+    background-color: #FDEFEF;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+
+.smr {
+    position: relative;
+    top: -82px;
+    left: 600px;
+    margin-right: 980px;
+    background-color: #FDEFEF;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.single {
+    position: relative;
+    top: -82px;
+    left: 600px;
+    margin-right: 980px;
+    background-color: #FDEFEF;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.rc {
+    position: relative;
+    top: -82px;
+    left: 600px;
+    margin-right: 980px;
+    background-color: #FDEFEF;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.fil {
+    position: relative;
+    top: -82px;
+    left: 600px;
+    margin-right: 980px;
+    background-color: #FDEFEF;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+.paybtre {
+    position: relative;
+    top: -82px;
+    left: 600px;
+    margin-right: 980px;
+    background-color: #FDEFEF;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: solid;
+}
+
+/*FAMILY*/
+
+.papa {
+    width: 200px;
+    height: 200px;
+
+}
+
+.img-with-text-below {
+    position: absolute;
+    background-color: burlywood;
+    text-align: center;
+    top: 150px;
+    left: 35px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.mama {
+    width: 200px;
+    height: 200px;
+
+}
+
+.img-with-text-below1 {
+    position: absolute;
+    background-color: burlywood;
+    text-align: center;
+    top: 150px;
+    left: 300px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.jayar {
+    width: 200px;
+    height: 200px;
+
+}
+
+.img-with-text-below2 {
+    position: absolute;
+    background-color: burlywood;
+    text-align: center;
+    top: 150px;
+    left: 560px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.markjayrold {
+    width: 200px;
+    height: 200px;
+
+}
+
+.img-with-text-below3 {
+    position: absolute;
+    background-color: burlywood;
+    text-align: center;
+    top: 150px;
+    left: 825px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.jaymark {
+    width: 200px;
+    height: 200px;
+
+}
+
+.img-with-text-below4 {
+    position: absolute;
+    background-color: burlywood;
+    text-align: center;
+    top: 150px;
+    left: 1085px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.mikajoy {
+    width: 200px;
+    height: 200px;
+
+}
+
+.img-with-text-below5 {
+    position: absolute;
+    background-color: burlywood;
+    text-align: center;
+    top: 575px;
+    left: 35px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.mayee {
+    width: 200px;
+    height: 200px;
+
+}
+
+.img-with-text-below6 {
+    position: absolute;
+    background-color: burlywood;
+    text-align: center;
+    top: 575px;
+    left: 300px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.janna {
+    width: 200px;
+    height: 200px;
+
+}
+
+.img-with-text-below7 {
+    position: absolute;
+    background-color: burlywood;
+    text-align: center;
+    top: 575px;
+    left: 560px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.johnashly {
+    width: 200px;
+    height: 200px;
+ 
+}
+
+.img-with-text-below8 {
+    position: absolute;
+    background-color:burlywood;
+    text-align: center;
+    top: 575px;
+    left: 825px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.maybe {
+    width: 200px;
+    height: 200px;
+
+}
+
+.img-with-text-below9 {
+    position: absolute;
+    background-color: burlywood;
+    text-align: center;
+    top: 575px;
+    left: 1085px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+
+.HomeButton3 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position:relative;
+    top: 725px;
+    left: -590px;
+}
+
+.description3 {
+    position: relative;
+    top: 850px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+} 
+
+
+.info{
+    text-align: center;
+    background-color: #FDEFEF;
+    border: 1px solid;  
+}
+
+
+/*HOVER*/
+
+h1:hover {transform: scale(1.02);}
+h2:hover{transform: scale(1.02);}
+h3:hover {transform: scale(1.02);}
+.WEBSITELOGO:hover {transform: scale(1.15);}
+.favbtn:hover { transform: scale(1.15);} 
+.fav:hover {  transform: scale(1.02);}
+.userbtn:hover { transform: scale(1.15);} 
+.fam1:hover { transform: scale(1.02);}
+.fambtn:hover { transform: scale(1.15);} 
+.user1:hover { transform: scale(1.02);}
+.birth:hover  { transform: scale(1.02);}
+.status:hover  { transform: scale(1.02);}
+.religion:hover  { transform: scale(1.02);}
+.citizenship:hover  { transform: scale(1.02);}
+.height:hover  { transform: scale(1.02);}
+.smr:hover  { transform: scale(1.02);}
+.single:hover  { transform: scale(1.02);}
+.rc:hover  { transform: scale(1.02);}
+.fil:hover  { transform: scale(1.02);}
+.paybtre:hover  { transform: scale(1.02);}
+.myname1:hover  {  transform: scale(1.02);} 
+.para1:hover  { transform: scale(1.02);}
+.para2:hover  { transform: scale(1.02);}
+.para3:hover  { transform: scale(1.02);}
+.para4:hover  { transform: scale(1.02);}
+.para5:hover  { transform: scale(1.02);}
+.HomeButton1:hover  { transform: scale(1.02);}
+.HomeButton2:hover  { transform: scale(1.02);}
+
+
+.familybtn:hover { transform: scale(1.15);} 
+.fam:hover {  transform: scale(1.02);}
+.papa:hover {  transform: scale(1.02);}
+.mama:hover {  transform: scale(1.02);}
+.jayar:hover {  transform: scale(1.02);}
+.markjayrold:hover {  transform: scale(1.02);}
+.jaymark:hover {  transform: scale(1.02);}
+.mikajoy:hover {  transform: scale(1.02);}
+.mayee:hover {  transform: scale(1.02);}
+.janna:hover {  transform: scale(1.02);}
+.johnashly:hover {  transform: scale(1.02);}
+.maybe:hover {  transform: scale(1.02);}
+.img-with-text-below:hover {  transform: scale(1.02);}
+.img-with-text-below1:hover {  transform: scale(1.02);}
+.img-with-text-below2:hover {  transform: scale(1.02);}
+.img-with-text-below3:hover {  transform: scale(1.02);}
+.img-with-text-below4:hover {  transform: scale(1.02);}
+.img-with-text-below5:hover {  transform: scale(1.02);}
+.img-with-text-below6:hover {  transform: scale(1.02);}
+.img-with-text-below7:hover {  transform: scale(1.02);} 
+.img-with-text-below8:hover {  transform: scale(1.02);} 
+.img-with-text-below9:hover {  transform: scale(1.02);} 
+
+.info1:hover {  transform: scale(1.02);} 
+.myname1:hover  {  transform: scale(1.02);}  
+.bio1:hover {  transform: scale(1.02);} 
+.info2:hover {  transform: scale(1.02);} 
+.myname2:hover  {  transform: scale(1.02);}  
+.bio2:hover {  transform: scale(1.02);} 
+.information:hover {  transform: scale(1.02);} 
+.mays:hover {  transform: scale(1.02);} 
+.profilepic:hover {  transform: scale(1.02);} 
+.description:hover {  transform: scale(1.02);} 
+.name:hover {  transform: scale(1.02);} 
+.description2:hover {  transform: scale(1.02);} 
+.description3:hover {  transform: scale(1.02);} 
+.HomeButton3:hover {  transform: scale(1.02);} 
+.bio3:hover {  transform: scale(1.02);} 
+.info3:hover {  transform: scale(1.02);} 
+.myname3:hover  {  transform: scale(1.02);}  
+.bio4:hover {  transform: scale(1.02);} 
+.info4:hover {  transform: scale(1.02);} 
+.myname4:hover  {  transform: scale(1.02);}  
+.bio5:hover {  transform: scale(1.02);} 
+.info5:hover {  transform: scale(1.02);} 
+.myname5:hover  {  transform: scale(1.02);}  
+.bio6:hover {  transform: scale(1.02);} 
+.info6:hover {  transform: scale(1.02);} 
+.myname6:hover  {  transform: scale(1.02);}  
+.bio7:hover {  transform: scale(1.02);} 
+.info7:hover {  transform: scale(1.02);} 
+.myname7:hover  {  transform: scale(1.02);}  
+.bio8:hover {  transform: scale(1.02);} 
+.info8:hover {  transform: scale(1.02);} 
+.myname8:hover{  transform: scale(1.02);}  
+.bio9:hover {  transform: scale(1.02);} 
+.info9:hover {  transform: scale(1.02);} 
+.myname9:hover{  transform: scale(1.02);}  
+.bio10:hover{  transform: scale(1.02);} 
+.info10:hover{  transform: scale(1.02);} 
+.myname10:hover{  transform: scale(1.02);}  
+
+
+/*FAMILY's BIO*/
+
+.bio1 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+}  
+
+.bio2 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+} 
+
+.bio3 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+}  
+
+.bio4 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+}  
+
+.bio5 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+}  
+
+.bio6 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+}  
+
+.bio7 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+}  
+
+.bio8 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+}  
+ 
+.bio9 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+}  
+
+.bio10 {
+    position: relative;
+    top: 130px;
+    left: 145px;
+    margin-right: 144px;
+    background-color: #FDEFEF;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid;
+}  
+
+/*PAPA*/
+
+.info1 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+ 
+}
+
+.myname1 {
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile1 {
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio1 {
+    text-align:center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:250px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+/*MAMA*/
+
+.info2 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname2 {
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile2{
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio2 {
+    text-align: center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+
+/*KUYA JR*/
+
+.info3 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname3 {
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile3{
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio3 {
+    text-align: center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+/*KUYA MARK JAYROLD*/
+
+.info4 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname4{
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile4{
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio4 {
+    text-align:center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+
+/*KUYA JAYMARK*/
+
+.info5 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname5{
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile5{
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio5 {
+    text-align:center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+/*ATE MIKA*/
+
+.info6 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname6 {
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile6{
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio6{
+    text-align:center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+/*MAYEE*/
+
+.info7{
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname7 {
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile7{
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio7{
+    text-align:center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+/*JANNA*/
+
+.info8{
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname8{
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile8{
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio8 {
+    text-align:center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+/*JOHN ASHLY*/
+
+.info9{
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname9 {
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile9{
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio9 {
+    text-align:center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+
+/*MAYBE*/
+
+.info10 {
+    position: center;
+    margin-left: 0px;
+    padding-left: 435px;
+    padding-right: 436px;
+    background-color: #FDEFEF;
+    margin-top: 25px;
+    border: 1px solid;
+
+}
+
+.myname10  {
+    background-color:#FDEFEF;
+    position:absolute;
+    top:205px;
+    right:250px;
+    left:40px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.profile10 {
+    position: absolute;
+    background-color: #FDEFEF;
+    top:195px;
+    left:1090px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid;
+}
+
+.bio10  {
+    text-align:center;
+    background-color: #FDEFEF;
+    border: 1px solid;
+    position: absolute;
+    top:300px;
+    right:100px;
+    left:40px;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
